@@ -12,6 +12,7 @@
 <img src="" alt="Drawing" style="display: block;width: 25rem;margin: 2rem auto 0 auto;"/>
 <p style="display: block;text-align: center;;width: 25rem;margin: auto;">A la izquiera imagen digitalizada original y a la derecha imagen restaurada y mejorada</p>\
 \
+
 **Etapas :**
 * Digitalización de las imágenes
 * Restauración
